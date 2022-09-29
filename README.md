@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Git, NodeJs, SQL, Node+EJS
 
-- 🤔 I'm looking for improvement in JavaScript, NodeJs and SQL.
+- 🤔 I'm looking for improvement in JavaScript, NodeJs, SQL, APIs and React.
 
 - 💬 Ask me about Front-end (HTML, CSS, JavaScript and Node)
 
