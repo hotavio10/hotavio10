@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hello 👋
 
 
-- 🔭 I’m currently working on Instituto Mix 
+- 🔭 I am currently working at Autotec commercial automation as a systems analyst
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Git, NodeJs, SQL, Node+EJS
+- 🌱 I am currently learning React framework and React native
 
-- 🤔 I'm looking for improvement in JavaScript, NodeJs, SQL, APIs and React.
+- 🤔 I'm always looking for improvements in JavaScript, NodeJs and SQL
 
-- 💬 Ask me about Front-end (HTML, CSS, JavaScript and Node)
+- 💬 Ask me about Frontend (HTML, CSS, JavaScript and Node)
 
-- 📫 How to reach me: hotavio10@gmail.com
+- 📫 How to contact me: hotavio10@gmail.com
